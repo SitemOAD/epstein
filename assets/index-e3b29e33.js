@@ -9088,7 +9088,7 @@ function Df() {
             }),
             a.jsx(Pe, {
               name: "Michael Jackson",
-              text: "Hi Hi🔥🔥",
+              text: "Hee Hee🔥🔥",
               num: 1,
               img: "/callers/madapes.png",
             }),
